@@ -1,59 +1,66 @@
-## Hey 👋, I'm Atik Al Sabbir!
-<a href='https://www.linkedin.com/in/atik-al-sabbir-008262232/'><img align='left' alt="linkedin" src="https://e7.pngegg.com/pngimages/991/594/png-clipart-linkedin-corporation-social-media-logo-business-cards-social-media-blue-angle.png" height='18px'/></a>
-<a href='https://www.facebook.com/as.sabbir.921'><img align='left' alt="Facebook" src="https://e7.pngegg.com/pngimages/991/568/png-clipart-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png" height='18px'/></a>
-<br/>
+<h1 align="center">Hi there, I'm Atik Al Sabbir! 👋🚀</h1>
 
+<p align="center">
+  <img src="https://github.com/Atik-Al-Sabbir/Atik-Al-Sabbir/blob/main/banner.png" alt="Atik Al Sabbir Banner" />
+</p>
 
-I’m a passionate \Developer who thrives on building awesome things! 🚀 Whether it’s Frontend Magic 🎨, Full Stack Engineering 🌐, or Designing 🖌️, I adapt to what the project needs. I love exploring new tech stacks 💻, crafting seamless user experiences, and turning ideas into reality. Let’s build something amazing! ⚡
-<br/>
-<br/>
+### 🚀 About Me  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+I’m a passionate **Developer** who thrives on building awesome things! 🚀  
+Whether it’s **Frontend Magic 🎨, Full Stack Engineering 🌐, or Designing 🖌️**, I adapt to what the project needs.  
+I love exploring new tech stacks 💻, crafting seamless user experiences, and turning ideas into reality.  
 
-- 🔭  I’m currently working on something cool 😉
-- 🌱 &nbsp; I’m currently learning Nodejs; 
-- 💬  Ask me about anything related to Javascript/Python or tailwind/React/Express
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atik-al-sabbir-008262232/)
-- 📚 &nbsp; When I am free, I play games and watch movies. 
+### 🌟 More About Me  
 
-<br>
+- 🔭  I’m currently working on something cool 😉  
+- 🌱  I’m currently learning **Node.js**  
+- 💬  Ask me about anything related to **JavaScript, Python, Tailwind, React, Express**  
+- 📫  Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/atik-al-sabbir-008262232/)**  
+- 🎮  When I’m free, I play games and watch movies.  
 
-### 🔨 Languages and Tools:
+---
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+## 🛠️ Languages & Tools  
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+### 💻 Programming Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+### 🌐 Frontend Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+### 🛠 Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-<br>
+### 🗄 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
+### 🔧 Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
-### 📊 Github Stats
-<a href='https://github.com/ASSabbir/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ASSabbir/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ASSabbir/github-stats-transparent/output/generated/languages.svg)
+---
 
-</a>
+## 📊 GitHub Stats  
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atik-Al-Sabbir&show_icons=true&theme=radical" alt="Atik's GitHub Stats" />
+</p>
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atik-Al-Sabbir&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atik-al-sabbir-008262232/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atik-Al-Sabbir)  
+
+---
+
+⭐️ *If you like what I do, consider giving me a star! 🚀*
