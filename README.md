@@ -47,11 +47,15 @@ I love exploring new tech stacks 💻, crafting seamless user experiences, and t
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atik-Al-Sabbir&show_icons=true&theme=radical" alt="Atik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASSabbir&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="ASSabbir's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atik-Al-Sabbir&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASSabbir&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSabbir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
