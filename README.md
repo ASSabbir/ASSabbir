@@ -4,6 +4,13 @@
   <img src="https://github.com/ASSabbir/ASSabbir/blob/main/banner.png" alt="Atik Al Sabbir Banner" />
 </p>
 
+## 💼 Atik Al Sabbir | Full Stack Developer  
+
+🌍 **Location:** [Dhaka, Bangladesh]  
+📧 **Email:** [atiksabbir1125@gmail.com]  
+📞 **Phone:** [01798392494]  
+
+---
 ### 🚀 About Me  
 
 I’m a passionate **Developer** who thrives on building awesome things! 🚀  
@@ -20,7 +27,7 @@ I love exploring new tech stacks 💻, crafting seamless user experiences, and t
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ My Skills  
 
 ### 💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
