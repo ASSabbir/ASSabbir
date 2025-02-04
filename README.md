@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Atik Al Sabbir! 👋🚀</h1>
 
 <p align="center">
-  <img src="https://github.com/Atik-Al-Sabbir/Atik-Al-Sabbir/blob/main/banner.png" alt="Atik Al Sabbir Banner" />
+  <img src="https://github.com/ASSabbir/ASSabbir/blob/main/banner.png" alt="Atik Al Sabbir Banner" />
 </p>
 
 ### 🚀 About Me  
@@ -25,10 +25,12 @@ I love exploring new tech stacks 💻, crafting seamless user experiences, and t
 ### 💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
 ### 🌐 Frontend Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
 
 ### 🛠 Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
@@ -42,7 +44,7 @@ I love exploring new tech stacks 💻, crafting seamless user experiences, and t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
----
+--
 
 ## 📊 GitHub Stats  
 
