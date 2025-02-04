@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Atik Al Sabbir! 👋🚀</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/hJcdQ5X/Neon-Green-Modern-Fitness-Zoom-Virtual-Background.png" alt="Atik Al Sabbir Banner" />
+  <img src="https://raw.githubusercontent.com/ASSabbir/ASSabbir/refs/heads/main/Neon%20Green%20Modern%20Fitness%20Zoom%20Virtual%20Background.png" alt="Atik Al Sabbir Banner" />
 </p>
 
 ## 💼 Atik Al Sabbir | Full Stack Developer  
