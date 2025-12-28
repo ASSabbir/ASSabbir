@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Atik Al Sabbir! 👋🚀</h1>
+# 👋 Hi, I'm **Atik Al Sabbir**
+### 🚀 Full-Stack Software Engineer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ASSabbir/ASSabbir/refs/heads/main/assabbir.png" alt="Atik Al Sabbir Banner" />
@@ -13,45 +14,123 @@
 ---
 ### 🚀 About Me  
 
-I’m a passionate **Developer** who thrives on building awesome things! 🚀  
-Whether it’s **Frontend Magic 🎨, Full Stack Engineering 🌐, or Designing 🖌️**, I adapt to what the project needs.  
-I love exploring new tech stacks 💻, crafting seamless user experiences, and turning ideas into reality.  
+I am **Atik Al Sabbir**, a **Full-Stack Software Engineer** specializing in building responsive, user-friendly, and performant web applications.  
+With experience in both frontend and backend development, I focus on writing clean, maintainable code and delivering seamless user experiences.
 
 ### 🌟 More About Me  
 
-- 🔭  I’m currently working on something cool 😉  
-- 🌱  I’m currently learning **Node.js**  
+- 🔭  Currently working as a **Web Developer Intern at Geekssort**
+- 💼  Previously worked at **Spark 71** as a **Full-Stack Developer (3 months)**
+- 🌱  Continuously learning and improving my skills
+- ⚡  Strong interest in animations, UI/UX, and performance optimization
 - 💬  Ask me about anything related to **JavaScript, Python, Tailwind, React, Express**  
 - 📫  Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/atik-al-sabbir-008262232/)**  
-- 🎮  When I’m free, I play games and watch movies.  
+
+---
+## 🛠 Tech Stack
+
+### Frontend
+- **JavaScript (ES6+)**
+- **TypeScript**
+- **React.js**
+- **Next.js**
+- **Tailwind CSS**
+- HTML5 & CSS3
+
+### Backend
+- **Node.js**
+- **Express.js**
+- RESTful APIs
+
+### Database
+- **MongoDB**
 
 ---
 
-## 🛠️ My Skills  
+## 💼 Work Experience
 
-### 💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+### 🚀 Spark 71  
+**Full-Stack Developer** — *3 Months*  
+- Developed and maintained full-stack web applications
+- Built RESTful APIs using Node.js and Express.js
+- Implemented responsive UIs with React and Tailwind CSS
+- Collaborated with designers and developers to deliver production-ready features  
+- 🌐 Website: *([Spark 71](https://spark71tech.com/))*
 
-### 🌐 Frontend Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
+---
 
-### 🛠 Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+### 💡 Geekssort  
+**Web Developer Intern** — *Current*  
+- Working on real-world web applications
+- Developing responsive and interactive UI components
+- Improving performance, accessibility, and code quality
+- Collaborating with senior developers and designers
 
-### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+---
 
-### 🔧 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+## 🧠 Skills & Expertise
 
---
+- Full-Stack Web Development
+- REST API Design & Integration
+- Responsive Design & Mobile-First Development
+- State Management
+- Authentication & Authorization
+- Clean Code & Best Practices
+- Debugging & Performance Optimization
+
+---
+
+## 📂 Projects
+
+> A collection of my featured projects showcasing my skills and experience.
+
+- Portfolio Website *(existing link here)*
+- Full-Stack Web Applications *(existing links here)*
+- React & Next.js Projects *(existing links here)*
+
+> More projects available in my repositories.
+
+---
+
+## 🧰 Tools & Technologies
+
+- Git & GitHub
+- VS Code
+- Postman
+- MongoDB Compass
+- npm / yarn
+- Vercel / Deployment Platforms
+
+---
+
+## ✨ Animations & UI Enhancements
+
+I enhance user experience using modern animation libraries:
+
+- **GSAP** – Advanced timeline-based animations
+- **Framer Motion** – Smooth, interactive UI animations
+- Page transitions and micro-interactions
+
+---
+
+## 📖 Currently Learning
+
+- Advanced TypeScript Patterns
+- Backend Architecture & Scalability
+- Performance Optimization
+- System Design Basics
+
+---
+
+
+## 📄 License
+
+This project and its contents are licensed under the **MIT License**.  
+Feel free to use, fork, and contribute.
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
 
 ## 📊 GitHub Stats  
 
